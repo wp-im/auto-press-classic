@@ -1,0 +1,7 @@
+body#tinymce { max-width: 700px; margin: 24px auto; padding: 0 20px; color: #111; font: 17px/1.8 -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+h2 { font-size: 22px; line-height: 1.5; }
+h3 { font-size: 18px; line-height: 1.55; }
+img { max-width: 100%; height: auto; }
+blockquote { border-left: 2px solid #c6c6c8; padding-left: 20px; }
+a { color: #155e75; }
+table { max-width: 100%; }
